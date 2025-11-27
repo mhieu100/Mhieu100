@@ -13,6 +13,7 @@
 
 - 🔭 I’m currently studying in VKU
 - 📫 How to reach me **hieunguyen201103@gmail.com**
+- CV : **[hieunguyen201103@gmail.com](https://www.mhieu100.space/cv)**
   
 ![mhieu100's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mhieu100&theme=onedark&show_icons=true&hide_border=false&layout=compact)
 </div>
