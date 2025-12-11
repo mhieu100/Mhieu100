@@ -16,14 +16,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhieu100&theme=onedark&show_icons=true&hide_border=false&layout=compact" alt="Top Languages" />
-</p>
-
----
-
 ## 🔧 Languages & Tools
 
 <p align="left">
